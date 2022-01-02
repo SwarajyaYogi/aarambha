@@ -1,0 +1,21 @@
+{
+  "name": "@swarajya-yogi/aarambha",
+  "version": "1.0.0",
+  "description": "https://github.com/tailwindtoolbox/Profile-Card/blob/master/index.html\r https://simpleicons.org/",
+  "scripts": {
+    "static-server": "static-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwarajyaYogi/aarambha.git"
+  },
+  "author": "Shrikant Adhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwarajyaYogi/aarambha/issues"
+  },
+  "homepage": "https://swarajyayogi.github.io/aarambha/",
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
+}
